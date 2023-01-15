@@ -276,7 +276,11 @@ main > section {
 .sponsors .brands img {
   max-width: 165px;
 }
-
+.contact {
+  border: 3px;
+  background-color: antiquewhite;
+  border-radius: 10px;
+}
 .contact input[type=text] {
   width: 100%;
   padding: 12px 20px;
